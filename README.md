@@ -1,2 +1,16 @@
-# jwr-simple-site-plugin
-Plugin I use for my site - testing a simpler approach
+# JWR *simple* site plugin
+## Update
+I built my systems to work with a system based on custom post types. That feels like over kill. Or I'm delaying actually putting content on the site.
+
+## Goal
+The goal is to use GitHub for version control of a WordPress plugin that I'm using for all my custom functions.
+
+## Execution
+1. Clone repo - done
+2. Comment out each file
+3. Reactivate them 1 at at time after updating it
+
+## Notes
+
+## Requirements
+I use ACF Pro a lot. Currently, that is the only requirement.
