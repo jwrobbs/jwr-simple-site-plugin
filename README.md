@@ -11,6 +11,7 @@ The goal is to use GitHub for version control of a WordPress plugin that I'm usi
 3. Reactivate them 1 at at time after updating it
 
 ## Notes
+I use a VS Code extension named ToDo Tree. It lets me use my comments for other functions. I'll add a legend eventually.
 
 ## Requirements
 I use ACF Pro a lot. Currently, that is the only requirement.

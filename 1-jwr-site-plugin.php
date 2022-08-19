@@ -26,6 +26,8 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 8. Custom queries for Elementor
 */
 
+
+
 //// 1. Create post types
 include_once(plugin_dir_path( __FILE__ )."php/cpts.php");
 	//// 1.1 Create taxonomies
